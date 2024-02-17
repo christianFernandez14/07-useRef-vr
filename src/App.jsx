@@ -1,9 +1,13 @@
+import Formulario from "./components/Formulario"
 
 const App = () => {
 
   return (
     <div>
       <h1>From App Components</h1>
+      <hr />
+      <br />
+      <Formulario />
     </div>
   )
 }
